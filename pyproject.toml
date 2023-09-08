@@ -1,5 +1,8 @@
 [tool.poetry]
-name = "random-quote-generator-rdobmk"
+name = "random-quote-generator-097632"
+packages = [
+    { include = "random_quote_generator" },
+]
 version = "0.1.0"
 description = ""
 authors = ["rdobmk"]
@@ -21,7 +24,3 @@ safety = "^2.3.5"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
-packages = [
-    { include = "random_quote_generator" },
-]
