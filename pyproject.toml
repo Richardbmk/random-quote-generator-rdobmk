@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "random-quote-generator-097632"
+name = "random-quote-generator-rdobmk"
 packages = [
     { include = "random_quote_generator" },
 ]
