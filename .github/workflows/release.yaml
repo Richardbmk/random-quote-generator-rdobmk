@@ -1,5 +1,8 @@
-name: Push
-on: [push]
+name: Release
+on:
+  release:
+    types:
+      - created
 
 jobs:
   publish:
