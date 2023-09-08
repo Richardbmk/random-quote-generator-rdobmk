@@ -5,12 +5,15 @@ We set up a simple CI/CD pipeline for a Python package published to PyPI. Code o
 Article: https://testdriven.io/blog/python-project-workflow/
 
 Github Release:
-    - https://github.com/Richardbmk/random-quote-generator-rdobmk/releases/tag/0.3.0
+- https://github.com/Richardbmk/random-quote-generator-rdobmk/releases/tag/0.3.0
+
 CodeCove:
-    - https://app.codecov.io/gh/Richardbmk/random-quote-generator-rdobmk
+- https://app.codecov.io/gh/Richardbmk/random-quote-generator-rdobmk
+
 Pypi Package:
-    - https://pypi.org/project/random-quote-generator-rdobmk/
-    - https://pypi.org/manage/project/random-quote-generator-rdobmk/releases/
+- https://pypi.org/project/random-quote-generator-rdobmk/
+- https://pypi.org/manage/project/random-quote-generator-rdobmk/releases/
+
 Documentation:
-    - https://random-quote-generator-rdobmk.readthedocs.io/en/latest/
-    - https://readthedocs.org/projects/random-quote-generator-rdobmk/
+- https://random-quote-generator-rdobmk.readthedocs.io/en/latest/
+- https://readthedocs.org/projects/random-quote-generator-rdobmk/
